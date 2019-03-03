@@ -1,0 +1,23 @@
+.Book {
+    display: flex;
+    flex-flow: row;
+    /* margin-bottom: 50px; */
+    text-align: left;
+    padding: 40px;
+    /* border-radius: 20px; */
+}
+.Book img {
+    cursor: pointer;
+}
+a {
+    text-decoration: none !important;
+    color: black;
+}
+.Book h4 {
+    margin-top: 0;
+    padding-left: 40px;
+    cursor: pointer;
+}
+.Book p {
+    padding-left: 40px;
+}
