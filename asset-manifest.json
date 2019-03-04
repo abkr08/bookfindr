@@ -1,0 +1,13 @@
+{
+  "main.css": "/bookfindr/static/css/main.b4045e39.chunk.css",
+  "main.js": "/bookfindr/static/js/main.bf2cfa55.chunk.js",
+  "main.js.map": "/bookfindr/static/js/main.bf2cfa55.chunk.js.map",
+  "runtime~main.js": "/bookfindr/static/js/runtime~main.d01f72fd.js",
+  "runtime~main.js.map": "/bookfindr/static/js/runtime~main.d01f72fd.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/bookfindr/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/bookfindr/static/js/2.c88c70e5.chunk.js.map",
+  "index.html": "/bookfindr/index.html",
+  "precache-manifest.acb4532f46b966387167403a99f50626.js": "/bookfindr/precache-manifest.acb4532f46b966387167403a99f50626.js",
+  "service-worker.js": "/bookfindr/service-worker.js",
+  "static/css/main.b4045e39.chunk.css.map": "/bookfindr/static/css/main.b4045e39.chunk.css.map"
+}
